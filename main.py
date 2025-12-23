@@ -1,4 +1,4 @@
-# ow deploy --env-file path/to/env    # Run on a runpod cpu instance
+# ow deploy --env-file .env    # Run on a runpod cpu instance
 
 from openweights import OpenWeights
 ow = OpenWeights()
